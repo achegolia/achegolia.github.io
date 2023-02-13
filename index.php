@@ -5,4 +5,6 @@
 	} else {
 		$email = "no email";
 	}
+	
+	return $email;
 ?>
